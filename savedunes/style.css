@@ -1,0 +1,46 @@
+/*
+ Theme Name:   Savedunes
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty twenty Child Theme
+ Author:       Tim Hunt
+ Author URI:   http://example.com
+ Template:     twentytwenty
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         
+ Text Domain:  twentytwentychild
+*/
+* {
+  font-family: roboto, sans-serif;
+}
+#site-header {
+  background-image: ;
+}
+
+h1.entry-title {
+  display: none;
+}
+
+.singular .entry-header {
+  padding: 0;
+}
+
+.post-inner {
+  padding-top: 0;
+}
+
+div.wpforms-container-full,
+div.wpforms-container-full .wpforms-form * {
+  padding: 10px;
+}
+
+.douglas .douglas-text {
+  width: 50%;
+}
+
+.entry-content > .alignwide {
+  max-width: none;
+  width: 100vw;
+  font-family: roboto, sans-serif;
+}
